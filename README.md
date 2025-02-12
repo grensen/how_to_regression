@@ -1,4 +1,4 @@
-# How to Regression to Predict a Single Numeric Value 2025
+# How to Regression, Predicting a Single Numeric Value 2025
 
 ## The People Dataset
 ![](https://github.com/grensen/how_to_regression/blob/main/figures/people.png)
