@@ -29,10 +29,24 @@
   </a>
 </div>
 
-## The Optimization Dataset
+## The Optimization Data
 <div align="center">
   <a href="https://github.com/grensen/how_to_regression">
     <img src="https://github.com/grensen/how_to_regression/blob/main/figures/optimization.png" width="1000" alt="The Optimization Dataset">
+  </a>
+</div>
+
+## Optimization Data Distribution
+<div align="center">
+  <a href="https://github.com/grensen/how_to_regression">
+    <img src="https://github.com/grensen/how_to_regression/blob/main/figures/distribution.png" width="1000" alt="The Optimization Dataset">
+  </a>
+</div>
+
+## Optimization Demo
+<div align="center">
+  <a href="https://github.com/grensen/how_to_regression">
+    <img src="https://github.com/grensen/how_to_regression/blob/main/figures/optimization_demo.png" width="1000" alt="The Optimization Dataset">
   </a>
 </div>
 
