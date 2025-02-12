@@ -45,7 +45,7 @@
 ## Epic Fail of the Best Ensemble
 ![KNNR](https://github.com/grensen/how_to_regression/blob/main/figures/id25_fail.gif)
 
-
+##
 
 ### Regression Technique Comparisons
 - [A Comparison of the Eight Most Common Machine Learning Regression Techniques](https://jamesmccaffrey.wordpress.com/2025/02/11/a-comparison-of-the-eight-most-common-machine-learning-regression-techniques/)
@@ -54,12 +54,6 @@
 ### Synthetic Data Generation
 - [Generating Synthetic Data for ML Regression Problems Using a Neural Network with C#](https://jamesmccaffrey.wordpress.com/2024/12/02/generating-synthetic-data-for-machine-learning-regression-problems-using-a-neural-network-with-csharp/)
 
-### Neural Networks
-- [Refactoring My C# Neural Network Regression to Resemble Scikit-Learn API](https://jamesmccaffrey.wordpress.com/2025/01/27/refactoring-my-csharp-neural-network-regression-implementation-to-resemble-the-scikit-learn-library-api/)
-
-### Linear Regression
-- [Linear Regression with Two-Way Interactions from Scratch Using C#](https://jamesmccaffrey.wordpress.com/2025/01/14/linear-regression-with-two-way-interactions-from-scratch-using-csharp/)
-- [Linear Regression from Scratch Using C#](https://jamesmccaffrey.wordpress.com/2024/12/31/linear-regression-from-scratch-using-csharp/)
 
 ### Decision Tree Regression
 - [Decision Tree Regression from Scratch Using C#](https://jamesmccaffrey.wordpress.com/2024/12/05/decision-tree-regression-from-scratch-using-c-in-visual-studio-magazine-2/)
@@ -76,20 +70,12 @@
 ### Naive Bayes Regression
 - [Naive Bayes Regression Using C#](https://jamesmccaffrey.wordpress.com/2025/01/24/naive-bayes-regression-using-csharp/)
 
-### Ensemble Methods
-#### Random Forest
-- [Random Forest Regression and Bagging Using C#](https://jamesmccaffrey.wordpress.com/2025/01/09/random-forest-regression-and-bagging-regression-using-csharp-in-visual-studio-magazine/)
-- [Random Neighborhoods Regression Using C#](https://jamesmccaffrey.wordpress.com/2025/02/06/random-neighborhoods-regression-using-csharp-in-visual-studio-magazine/)
-- [Random Neighborhoods Regression Implementation](https://jamesmccaffrey.wordpress.com/2025/01/17/random-neighborhoods-regression-using-csharp/)
-- [Random Forest Regression Using C#](https://jamesmccaffrey.wordpress.com/2024/12/16/random-forest-regression-using-csharp/)
+### Linear Regression
+- [Linear Regression with Two-Way Interactions from Scratch Using C#](https://jamesmccaffrey.wordpress.com/2025/01/14/linear-regression-with-two-way-interactions-from-scratch-using-csharp/)
+- [Linear Regression from Scratch Using C#](https://jamesmccaffrey.wordpress.com/2024/12/31/linear-regression-from-scratch-using-csharp/)
 
-#### Gradient Boosting
-- [Gradient Boosting Regression Using C#](https://jamesmccaffrey.wordpress.com/2025/01/30/gradient-boosting-regression-using-csharp-in-visual-studio-magazine/)
-- [Gradient Boost Regression from Scratch Using C#](https://jamesmccaffrey.wordpress.com/2024/12/23/gradient-boost-regression-from-scratch-using-csharp/)
-
-#### AdaBoost
-- [AdaBoost Regression from Scratch (C#)](https://jamesmccaffrey.wordpress.com/2024/11/19/adaboost-regression-from-scratch-csharp-using-k-nearest-neighbors-from-scratch-weak-learners/)
-- [AdaBoost Regression Using C#](https://jamesmccaffrey.wordpress.com/2024/12/19/adaboost-regression-using-c-in-visual-studio-magazine/)
+### Neural Networks
+- [Refactoring My C# Neural Network Regression to Resemble Scikit-Learn API](https://jamesmccaffrey.wordpress.com/2025/01/27/refactoring-my-csharp-neural-network-regression-implementation-to-resemble-the-scikit-learn-library-api/)
 
 ### Gaussian Process Regression
 - [Gaussian Process vs Neural Network Regression](https://jamesmccaffrey.wordpress.com/2023/06/27/showdown-gaussian-process-regression-vs-neural-network-regression/)
@@ -108,4 +94,21 @@
 - [KRR with Stochastic Gradient Descent](https://jamesmccaffrey.wordpress.com/2023/09/29/kernel-ridge-regression-using-csharp-with-stochastic-gradient-descent-training/)
 - [KRR Using C# in Visual Studio Magazine](https://jamesmccaffrey.wordpress.com/2023/09/05/kernel-ridge-regression-using-csharp-in-visual-studio-magazine/)
 - [KRR OOP-Style Implementation](https://jamesmccaffrey.wordpress.com/2023/07/17/kernel-ridge-regression-using-c-oop-style/)
-- [KRR from Scratch Using C#](https://jamesmccaffrey.wordpress.com/2023/06/30/kernel-ridge-regression-from-scratch-using-csharp/)
+- [KRR from Scratch Using C#](https://jamesmccaffrey.wordpress.com/2023/06/30/kernel-ridge-regression-from-scratch-using-csharp/) 
+
+### Ensemble Methods
+#### Random Forest
+- [Random Forest Regression and Bagging Using C#](https://jamesmccaffrey.wordpress.com/2025/01/09/random-forest-regression-and-bagging-regression-using-csharp-in-visual-studio-magazine/)
+- [Random Neighborhoods Regression Using C#](https://jamesmccaffrey.wordpress.com/2025/02/06/random-neighborhoods-regression-using-csharp-in-visual-studio-magazine/)
+- [Random Neighborhoods Regression Implementation](https://jamesmccaffrey.wordpress.com/2025/01/17/random-neighborhoods-regression-using-csharp/)
+- [Random Forest Regression Using C#](https://jamesmccaffrey.wordpress.com/2024/12/16/random-forest-regression-using-csharp/)
+
+#### Gradient Boosting
+- [Gradient Boosting Regression Using C#](https://jamesmccaffrey.wordpress.com/2025/01/30/gradient-boosting-regression-using-csharp-in-visual-studio-magazine/)
+- [Gradient Boost Regression from Scratch Using C#](https://jamesmccaffrey.wordpress.com/2024/12/23/gradient-boost-regression-from-scratch-using-csharp/)
+
+#### AdaBoost
+- [AdaBoost Regression from Scratch (C#)](https://jamesmccaffrey.wordpress.com/2024/11/19/adaboost-regression-from-scratch-csharp-using-k-nearest-neighbors-from-scratch-weak-learners/)
+- [AdaBoost Regression Using C#](https://jamesmccaffrey.wordpress.com/2024/12/19/adaboost-regression-using-c-in-visual-studio-magazine/)
+
+
