@@ -1,49 +1,110 @@
 # How to Regression, Predicting a Single Numeric Value 2025
 
+
 ## The People Dataset
-![](https://github.com/grensen/how_to_regression/blob/main/figures/people.png)
+<div align="center">
+  <a href="https://github.com/grensen/how_to_regression">
+    <img src="https://github.com/grensen/how_to_regression/blob/main/figures/people.png" width="1000" alt="The People Dataset">
+  </a>
+</div>
 
 ## 30 Predictors on People Dataset
-![](https://github.com/grensen/how_to_regression/blob/main/figures/regression25_top30_people.png)
+<div align="center">
+  <a href="https://github.com/grensen/how_to_regression">
+    <img src="https://github.com/grensen/how_to_regression/blob/main/figures/regression25_top30_people.png" width="1000" alt="30 Predictors on People Dataset">
+  </a>
+</div>
 
 ## The Synthetic Dataset
-![](https://github.com/grensen/how_to_regression/blob/main/figures/synthetic.png)
+<div align="center">
+  <a href="https://github.com/grensen/how_to_regression">
+    <img src="https://github.com/grensen/how_to_regression/blob/main/figures/synthetic.png" width="1000" alt="The Synthetic Dataset">
+  </a>
+</div>
 
 ## 30 Predictors on Synthetic Dataset
-![](https://github.com/grensen/how_to_regression/blob/main/figures/regression25_top30_synthetic.png)
+<div align="center">
+  <a href="https://github.com/grensen/how_to_regression">
+    <img src="https://github.com/grensen/how_to_regression/blob/main/figures/regression25_top30_synthetic.png" width="1000" alt="30 Predictors on Synthetic Dataset">
+  </a>
+</div>
 
 ## The Optimization Dataset
-![](https://github.com/grensen/how_to_regression/blob/main/figures/optimization.png)
+<div align="center">
+  <a href="https://github.com/grensen/how_to_regression">
+    <img src="https://github.com/grensen/how_to_regression/blob/main/figures/optimization.png" width="1000" alt="The Optimization Dataset">
+  </a>
+</div>
 
 ## 30 Predictors on Optimization Dataset
-![](https://github.com/grensen/how_to_regression/blob/main/figures/regression25_top30_optimization.png)
+<div align="center">
+  <a href="https://github.com/grensen/how_to_regression">
+    <img src="https://github.com/grensen/how_to_regression/blob/main/figures/regression25_top30_optimization.png" width="1000" alt="30 Predictors on Optimization Dataset">
+  </a>
+</div>
 
-## Top 30 Models Final Score 
-![](https://github.com/grensen/how_to_regression/blob/main/figures/ensemble30_regression25.png)
+## Top 30 Models Final Score
+<div align="center">
+  <a href="https://github.com/grensen/how_to_regression">
+    <img src="https://github.com/grensen/how_to_regression/blob/main/figures/ensemble30_regression25.png" width="1000" alt="Top 30 Models Final Score">
+  </a>
+</div>
 
 ## Accuracy Raw Within: 10%, 5%, 1%
-![](https://github.com/grensen/how_to_regression/blob/main/figures/accuracy.png)
+<div align="center">
+  <a href="https://github.com/grensen/how_to_regression">
+    <img src="https://github.com/grensen/how_to_regression/blob/main/figures/accuracy.png" width="1000" alt="Accuracy Raw Within: 10%, 5%, 1%">
+  </a>
+</div>
 
-## KNNR 
-![KNNR](https://github.com/grensen/how_to_regression/blob/main/figures/id_knn.gif)
+## KNNR
+<div align="center">
+  <a href="https://github.com/grensen/how_to_regression">
+    <img src="https://github.com/grensen/how_to_regression/blob/main/figures/id_knn.gif" width="1000" alt="KNNR">
+  </a>
+</div>
 
 ## Deep Neural Network
-![KNNR](https://github.com/grensen/how_to_regression/blob/main/figures/id_dnn.gif)
+<div align="center">
+  <a href="https://github.com/grensen/how_to_regression">
+    <img src="https://github.com/grensen/how_to_regression/blob/main/figures/id_dnn.gif" width="1000" alt="Deep Neural Network">
+  </a>
+</div>
 
 ## XGBoost
-![KNNR](https://github.com/grensen/how_to_regression/blob/main/figures/id_xgb.gif)
+<div align="center">
+  <a href="https://github.com/grensen/how_to_regression">
+    <img src="https://github.com/grensen/how_to_regression/blob/main/figures/id_xgb.gif" width="1000" alt="XGBoost">
+  </a>
+</div>
 
 ## Ensemble Predictions
-![KNNR](https://github.com/grensen/how_to_regression/blob/main/figures/id_ensemble.gif)
+<div align="center">
+  <a href="https://github.com/grensen/how_to_regression">
+    <img src="https://github.com/grensen/how_to_regression/blob/main/figures/id_ensemble.gif" width="1000" alt="Ensemble Predictions">
+  </a>
+</div>
 
 ## Ensemble Result
-![KNNR](https://github.com/grensen/how_to_regression/blob/main/figures/id_ensemble_one.gif)
+<div align="center">
+  <a href="https://github.com/grensen/how_to_regression">
+    <img src="https://github.com/grensen/how_to_regression/blob/main/figures/id_ensemble_one.gif" width="1000" alt="Ensemble Result">
+  </a>
+</div>
 
 ## NN25
-![KNNR](https://github.com/grensen/how_to_regression/blob/main/figures/id25_dnn.gif)
+<div align="center">
+  <a href="https://github.com/grensen/how_to_regression">
+    <img src="https://github.com/grensen/how_to_regression/blob/main/figures/id25_dnn.gif" width="1000" alt="NN25">
+  </a>
+</div>
 
 ## Epic Fail of the Best Ensemble
-![KNNR](https://github.com/grensen/how_to_regression/blob/main/figures/id25_fail.gif)
+<div align="center">
+  <a href="https://github.com/grensen/how_to_regression">
+    <img src="https://github.com/grensen/how_to_regression/blob/main/figures/id25_fail.gif" width="1000" alt="Epic Fail of the Best Ensemble">
+  </a>
+</div>
 
 ##
 
