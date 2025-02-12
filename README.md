@@ -1,24 +1,28 @@
-# How to Regression 2025
-
-
-## My Top 30 Models to Predict a Single Numeric Value
-![](https://github.com/grensen/how_to_regression/blob/main/figures/ensemble30_regression25.png)
-
-## Accuracy Raw Within: 10%, 5%, 1%
-![](https://github.com/grensen/how_to_regression/blob/main/figures/accuracy.png)
-
-## The Optimization Dataset
-![](https://github.com/grensen/how_to_regression/blob/main/figures/optimization.png)
-
+# How to Regression to Predict a Single Numeric Value 2025
 
 ## The People Dataset
 ![](https://github.com/grensen/how_to_regression/blob/main/figures/people.png)
 
+## 30 Predictors on People Dataset
+![](https://github.com/grensen/how_to_regression/blob/main/figures/regression25_top30_people.png)
 
-## The Optimization Dataset
+## The Synthetic Dataset
 ![](https://github.com/grensen/how_to_regression/blob/main/figures/synthetic.png)
 
+## 30 Predictors on Synthetic Dataset
+![](https://github.com/grensen/how_to_regression/blob/main/figures/regression25_top30_synthetic.png)
 
+## The Optimization Dataset
+![](https://github.com/grensen/how_to_regression/blob/main/figures/optimization.png)
+
+## 30 Predictors on Optimization Dataset
+![](https://github.com/grensen/how_to_regression/blob/main/figures/regression25_top30_optimization.png)
+
+## Top 30 Models Final Score 
+![](https://github.com/grensen/how_to_regression/blob/main/figures/ensemble30_regression25.png)
+
+## Accuracy Raw Within: 10%, 5%, 1%
+![](https://github.com/grensen/how_to_regression/blob/main/figures/accuracy.png)
 
 ## KNNR 
 ![KNNR](https://github.com/grensen/how_to_regression/blob/main/figures/id_knn.gif)
