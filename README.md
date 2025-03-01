@@ -43,13 +43,6 @@
   </a>
 </div>
 
-## Optimization Demo
-<div align="center">
-  <a href="https://github.com/grensen/how_to_regression">
-    <img src="https://github.com/grensen/how_to_regression/blob/main/figures/optimization_demo.png" width="1000" alt="The Optimization Dataset">
-  </a>
-</div>
-
 ## 30 Predictors on Optimization Dataset
 <div align="center">
   <a href="https://github.com/grensen/how_to_regression">
@@ -61,6 +54,13 @@
 <div align="center">
   <a href="https://github.com/grensen/how_to_regression">
     <img src="https://github.com/grensen/how_to_regression/blob/main/figures/ensemble30_regression25.png" width="1000" alt="Top 30 Models Final Score">
+  </a>
+</div>
+
+## Optimization Demo
+<div align="center">
+  <a href="https://github.com/grensen/how_to_regression">
+    <img src="https://github.com/grensen/how_to_regression/blob/main/figures/optimization_demo.png" width="1000" alt="The Optimization Dataset">
   </a>
 </div>
 
@@ -119,6 +119,23 @@
     <img src="https://github.com/grensen/how_to_regression/blob/main/figures/id25_fail.gif" width="1000" alt="Epic Fail of the Best Ensemble">
   </a>
 </div>
+
+## LLM Coding February 2025
+<div align="center">
+  <a href="https://github.com/grensen/how_to_regression">
+    <img src="https://github.com/grensen/how_to_regression/blob/main/figures/llms_feb_25.png" width="800" alt="LLM Coding">
+  </a>
+</div>
+
+[Andrej Karpathy: How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+## NN25 Demo with New Score Function  
+
+<p align="center">
+  <img src="https://github.com/grensen/how_to_regression/blob/main/figures/mars_demo.png">
+</p>
+
+[MARS (Multivariate Adaptive Regression Spline)](https://github.com/grensen/how_to_regression/blob/main/code/mars.cs)
 
 ##
 
