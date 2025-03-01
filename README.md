@@ -129,7 +129,7 @@
 
 [Andrej Karpathy: How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw)
 
-## NN25 Demo with New Score Function  
+## From Prompt to Prediction Model: MARS Demo
 
 <p align="center">
   <img src="https://github.com/grensen/how_to_regression/blob/main/figures/mars_demo.png">
